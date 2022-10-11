@@ -1,0 +1,15 @@
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\obj\Debug\net6.0\Итоговая работа 1.csproj.AssemblyReference.cache
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\obj\Debug\net6.0\Итоговая работа 1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\obj\Debug\net6.0\Итоговая работа 1.AssemblyInfoInputs.cache
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\obj\Debug\net6.0\Итоговая работа 1.AssemblyInfo.cs
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\obj\Debug\net6.0\Итоговая работа 1.csproj.CoreCompileInputs.cache
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\bin\Debug\net6.0\Итоговая работа 1.exe
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\bin\Debug\net6.0\Итоговая работа 1.deps.json
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\bin\Debug\net6.0\Итоговая работа 1.runtimeconfig.json
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\bin\Debug\net6.0\Итоговая работа 1.dll
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\bin\Debug\net6.0\Итоговая работа 1.pdb
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\obj\Debug\net6.0\Итоговая работа 1.dll
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\obj\Debug\net6.0\refint\Итоговая работа 1.dll
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\obj\Debug\net6.0\Итоговая работа 1.pdb
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\obj\Debug\net6.0\Итоговая работа 1.genruntimeconfig.cache
+G:\Мой диск F\Учеба Web\GeekBrains\Итоговая работа 1\obj\Debug\net6.0\ref\Итоговая работа 1.dll
